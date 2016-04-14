@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\ModifiedStepsView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\android_github\ModifiedStepsView\app\build\intermediates\pre-dexed\debug\classes-cefa2e9aadac4c5702372a42f0e0fc3584a92af6.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ModifiedStepsView\app\build\intermediates\exploded-aar\ModifiedStepsView\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="be4e53b02d2ed7c2c0dec4c3b7214e19e6e19df1">
+        <dex dex="D:\android_github\ModifiedStepsView\app\build\intermediates\pre-dexed\debug\classes-7534aef5dc111e643a24fe03384ab90d7d3c310c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ModifiedStepsView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\android_github\ModifiedStepsView\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-1c686302554699b8a8cbc0c2636333262773be08.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\android_github\ModifiedStepsView\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-52c6c6b9f44284189316a09bc85f874764965bd2.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ModifiedStepsView\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\android_github\ModifiedStepsView\app\build\intermediates\pre-dexed\debug\classes-5185b35ec0ef06c31247f31a38ac86b3604612a6.jar" />
+    </item>
+
+</items>
